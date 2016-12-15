@@ -1,0 +1,4 @@
+{
+  "presets": ["es2015", "es2016", "stage-2", "react"],
+  "plugins": ["add-module-exports", "transform-runtime", "transform-decorators-legacy", "transform-class-properties", "react-hot-loader/babel"]
+}
